@@ -13,4 +13,6 @@ these are for  exp1.3
 <img width="4480" height="2520" alt="image" src="https://github.com/user-attachments/assets/38af5527-6a4b-4ef2-b081-73bf2bd4eb43" />
 <img width="4480" height="2520" alt="image" src="https://github.com/user-attachments/assets/d5f9bbca-a032-41a2-8bfa-7286f2c91f8a" />
 <img width="4480" height="2520" alt="image" src="https://github.com/user-attachments/assets/0840df09-6b22-45fa-a97b-46d7f62d50ba" />
+<img width="886" height="1896" alt="image" src="https://github.com/user-attachments/assets/aad7028c-4221-4da2-9535-634754444697" />
+
 
