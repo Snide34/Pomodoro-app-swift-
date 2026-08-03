@@ -9,3 +9,4 @@ to the project and the group can see who is more concentrated towards work
 these are for  exp1.3
 
 <img width="656" height="796" alt="Screenshot 2026-07-28 at 11 05 55 AM" src="https://github.com/user-attachments/assets/487d2933-feab-4e89-af87-900ed5b08d9c" /><img width="401" height="827" alt="Screenshot 2026-07-28 at 11 05 45 AM" src="https://github.com/user-attachments/assets/a416cd71-9edf-4d0f-ab6f-cd1489a84496" /><img width="2240" height="1260" alt="Screenshot 2026-07-28 at 11 05 31 AM" src="https://github.com/user-attachments/assets/3aadca88-7785-49dd-b041-35831632d86d" />
+<img width="2240" height="1260" alt="Screenshot 2026-08-03 at 10 27 53 AM" src="https://github.com/user-attachments/assets/93979af5-3970-4c44-8b2a-aca6f21fb3e7" />
